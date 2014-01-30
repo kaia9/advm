@@ -15,10 +15,10 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: advm_development
+  database: kovenet_advm
   pool: 5
-  username: advm
-  password:
+  username: kovenet_advm
+  password: oJ4QeL3PGgjxKZ
 
   # Connect on a TCP socket. Omitted by default since the client uses a
   # domain socket that doesn't need configuration. Windows does not have
